@@ -1,2 +1,2 @@
 # CoinQuotes
-A cryptocurrency portfolio tracker using excel, python and the CoinMarketCap API.
+A cryptocurrency portfolio tracker built using excel, python and the CoinMarketCap API.
